@@ -66,5 +66,5 @@ Hover to view contextual details such as player stats per season or match summar
 📍 Venue Planning: Event managers and advertisers can determine top-performing or high-attendance venues.
 
 . Screenshots
-
+https://github.com/moubanisingha/IPL-Data-Analysis-Dashboard/blob/main/Screenshot%20(263).png
   
